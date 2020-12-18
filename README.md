@@ -1,7 +1,5 @@
 ### Hello there, I'm Shashikant 👋
 
-[![LinkedIn]](https://www.linkedin.com/in/shashikant-bhadke-447b61102)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FShashi_Bhadke&screen_name=Shashi_Bhadke)
 
 ## I'm a Son, Brother, Friend and Developer!!
 
