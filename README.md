@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Shashikant
 #### iOS Developer
-![iOS Developer](https://github.com/ShashikantBhadke/ShashikantBhadke/blob/main/IMG_20191214_011105.jpg)
+![iOS Developer](https://github.com/ShashikantBhadke/ShashikantBhadke/blob/main/IMG_20191214_011105.jpg, height="200")
 
 I'm Shashikant B from India, I do iOS App Development with 3+ Years of experience.
 
@@ -17,11 +17,5 @@ Skills: Swift / Objective C
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ShashikantBhadke)
 
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-<br >
