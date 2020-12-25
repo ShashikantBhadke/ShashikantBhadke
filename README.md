@@ -1,8 +1,5 @@
 ### Hi there 👋, my name is Shashikant
-#### iOS Developer
-
-
-I'm Shashikant B from India, I do iOS App Development with 3+ Years of experience.
+From India, I do iOS App Development with 3+ Years of experience.
 
 Skills: Swift / Objective C 
 
