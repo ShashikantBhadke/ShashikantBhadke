@@ -1,21 +1,16 @@
-### Hello there, I'm Shashikant 👋
+### Hi there 👋, my name is Shashikant
+#### iOS Developer
+![iOS Developer](https://github.com/ShashikantBhadke/ShashikantBhadke/blob/main/IMG_20191214_011105.jpg)
 
-### Connect with me:
+I'm Shashikant B from India, I do iOS App Development with 3+ Years of experience.
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+Skills: Swift / Objective C 
 
-<br />
-<br />
 
----
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ShashikantBhadke)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shashikant-bhadke-447b61102/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Shashi_Bhadke)  
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ShashikantBhadke&show_icons=true&hide_border=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashikantBhadke)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShashikantBhadke&show_icons=true)  
 
-[twitter]: https://twitter.com/Shashi_Bhadke
-[linkedin]: https://linkedin.com/in/shashikant-bhadke-447b61102
