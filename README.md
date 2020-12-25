@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Shashikant
 #### iOS Developer
-<img src="https://github.com/ShashikantBhadke/ShashikantBhadke/blob/main/IMG_20191214_011105.jpg" height="150">
+<img src="https://github.com/ShashikantBhadke/ShashikantBhadke/blob/main/IMG_20191214_011105.jpg" width="700" height="150">
 
 I'm Shashikant B from India, I do iOS App Development with 3+ Years of experience.
 
